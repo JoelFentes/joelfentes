@@ -29,14 +29,20 @@
 ## 📈 Estatísticas
 <div align="center">
   <a href="https://github.com/joelfentes">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joelfentes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelfentes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
 ## 🌍 Onde me encontrar
-[![Linkedin Badge](https://img.shields.io/badge/-Joel%20Fentes-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-fentes)](https://www.linkedin.com/in/joel-fentes)  
-✉️ Email: *joelfentes@gmail.com**  
+<a href="https://www.linkedin.com/in/joel-fentes" target="_blank">
+  <img align="center" alt="LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:joelfentes@gmail.com">
+  <img align="center" alt="Gmail" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+</a>
 
 ---
 
