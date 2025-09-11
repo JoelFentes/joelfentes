@@ -1,5 +1,3 @@
-![Banner](https://i.ibb.co/kq2X2jr/github-banner.png)
-
 # 👋 Olá, eu sou o Joel Fentes  
 
 🎓 Estudante de tecnologia | 💻 Open to Work – Estágio em Desenvolvimento  
@@ -31,7 +29,6 @@
 ## 📈 Estatísticas
 <div align="center">
   <a href="https://github.com/joelfentes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joelfentes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelfentes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
