@@ -1,11 +1,10 @@
 # 👋 Olá, eu sou o Joel Fentes  
 
-🎓 Estudante de tecnologia | 💻 Open to Work – Estágio em Desenvolvimento  
-🚀 Apaixonado por criar soluções que unem lógica, inovação e impacto real  
+🎓 Estudante de tecnologia - Engenharia de Software| 💻 Estagiário em Desenvolvimento 
 
 ---
 
-## 🌟 Sobre mim
+## Sobre mim
 - 🔭 Atualmente desenvolvendo projetos com **React, Firebase, TypeScript, Node.js e PostgreSQL**  
 - 📱 Experiência com apps mobile em **React Native/Expo**  
 - 📊 Já desenvolvi sistemas de **avaliações acadêmicas**, **gestão escolar** e um app de **notas com geofencing**  
